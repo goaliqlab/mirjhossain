@@ -20,7 +20,7 @@
 
 👨‍💻 About Me
 
-I am a Senior IT Professional and Data Scientist with over 20 years of experience across IT project management, business intelligence, database administration, system analysis, and software development. Currently serving as Manager of Technology & Operations at NMCI Group / NMC Global Corp in New Jersey, USA, where I oversee IT infrastructure across more than 10 office locations worldwide including the USA, China, India, Bangladesh, Morocco, and Panama.
+I am a Senior IT Professional and Data Scientist with over 20 years of experience across IT project management, business intelligence, database administration, system analysis, and software development. Currently serving as Manager of Technology & Operations at NMCI Group / NMC Global Corp in New Jersey, USA, where I oversee IT infrastructure across more than 10 office locations worldwide including the USA, China, India, Pakistan and Bangladesh.
 
 I hold a Master of Science in Data Science and a Bachelor of Science in Computer Science, complemented by 12+ professional certifications from Microsoft, Johns Hopkins University, UC Berkeley, and MIT.
 
